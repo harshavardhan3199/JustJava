@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sólo Java</string>
+    <string name="name">Nombre</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="whippedCream">Crema batida</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Cantidad</string>
+    <string name="quantityDisplayer">0</string>
+    <string name="buttonDecre">-</string>
+    <string name="buttonIncre">=</string>
+    <string name="order">Ordenar</string>
+    <string name="orderSummaryName">Nombre:</string>
+    <string name="orderSummaryWhippedCream">Agregue la crema batida?</string>
+    <string name="orderSummaryChocolate">Agregue el chocolate?</string>
+    <string name="orderSummaryQuantity">Cantidad :</string>
+    <string name="orderSummaryPrice">Total :</string>
+    <string name="orderSummaryThanks">Gracias!</string>
+    <string name="orderSummaryEmail">Resumen del pedido</string>
+</resources>

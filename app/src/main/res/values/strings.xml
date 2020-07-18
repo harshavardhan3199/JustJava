@@ -1,0 +1,19 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="toppings">Toppings</string>  //This is used for Toppings on top
+    <string name="name">Enter your name</string> //This is for Username
+    <string name="whippedCream">Whipped Cream</string> //This is for whiped cream
+    <string name="chocolate">Chocolate</string> //This is used for chocolate
+    <string name="quantity">Quantity</string> //This is used for quantity
+    <string name="buttonDecre">-</string>  //This is used for decrementing quantity
+    <string name="buttonIncre">+</string>  //This is used for incrementing quantity
+    <string name="quantityDisplayer">0</string> //This is used for displaying quantity
+    <string name="order">Order</string>   //This is used for order
+    <string name="orderSummaryName">Name:<xliff:g id="nameResult" example="Harsha">%s</xliff:g> </string>
+    <string name="orderSummaryWhippedCream">Add Whipped Cream?<xliff:g id="whippedCreamResult" example="true">%s</xliff:g> </string>
+    <string name="orderSummaryChocolate">Add Chocolate?<xliff:g id="chocolateResult" example="true">%s</xliff:g> </string>
+    <string name="orderSummaryQuantity">Quantity :<xliff:g id="quantity" example="2">%d</xliff:g> </string>
+    <string name="orderSummaryPrice">Price :<xliff:g id="price" example="Rs.10">%s</xliff:g> </string>
+    <string name="orderSummaryThanks">Thank you! Come again.</string>
+    <string name="orderSummaryEmail">Order Summary<xliff:g id="nameResult" example="Harsha">%s</xliff:g> </string>
+</resources>
